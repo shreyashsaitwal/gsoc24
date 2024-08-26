@@ -1,0 +1,12 @@
+#m3-button {
+    background-color: #6750A4;
+    font-size: 14px;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    height: 100%;
+    width: 100%;
+}
