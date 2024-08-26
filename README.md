@@ -1,4 +1,4 @@
-## Mock preview support for extensions in MIT App Inventor 2
+## Mock preview support for App Inventor extensions
 
 This summer, I've been working on adding mock preview support for extensions in MIT App Inventor 2 as a part of my GSoC 
 2024 project. This repo serves as the final work product submission for that.
