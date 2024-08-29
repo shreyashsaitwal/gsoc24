@@ -11,10 +11,11 @@ import com.google.appinventor.components.runtime.ComponentContainer;
 
 @SimpleObject(external = true)
 @DesignerComponent(
-  version = 1, 
+  version = 1,
   category = ComponentCategory.EXTENSION,
   description = "My awesome button extensions",
-  iconName = "https://developer.android.com/static/images/logos/android.svg"
+  iconName = "https://developer.android.com/static/images/logos/android.svg",
+  nonVisible = false,
 )
 public class MyButton extends AndroidViewComponent {
   private final Button button;
